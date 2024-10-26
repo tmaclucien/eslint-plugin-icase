@@ -21,6 +21,9 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
+    "https-proxy-agent": "^7.0.5",
+    "openai": "^4.68.4",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
