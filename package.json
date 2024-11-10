@@ -21,6 +21,8 @@
     "update:eslint-docs": "eslint-doc-generator"
   },
   "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "cli-progress": "^3.12.0",
     "dotenv": "^16.4.5",
     "https-proxy-agent": "^7.0.5",
     "openai": "^4.68.4",
